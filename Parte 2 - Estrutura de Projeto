@@ -1,1 +1,6 @@
+# Estrutura de Projeto Frontend
 
+- **index.html:** Arquivo principal que contém a estrutura da página.
+- **css/:** Pasta destinada aos arquivos de estilização (style.css).
+- **js/:** Pasta para os scripts de interatividade (script.js).
+- **img/:** Pasta para armazenar imagens e ativos visuais.
