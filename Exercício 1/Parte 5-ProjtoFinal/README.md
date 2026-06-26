@@ -1,5 +1,5 @@
 ## Objetivo
-Este projeto consiste na criação de um mini site estático utilizando HTML semântico, CSS para estilização e JavaScript para adicionar uma pequena interatividade. O objetivo principal é consolidar conhecimentos em desenvolvimento frontend, aplicando as melhores práticas de estruturação de código e organização de arquivos.
+Este projeto consite na criação de um mini site temático sobre o filme "Pânico 7" (Scream VII), utilizando HTML semântico, CSS para estilização com tema de horror e JavaScript para adicionar uma pequena interatividade. O objetivo principal é demonstrar a aplicação de conceitos de desenvolvimento frontend em um contexto divertido e engajador.
 
 ## Estrutura de Paastas
 A estrutura de pastas do projeto foi organizada da seguinte forma:
